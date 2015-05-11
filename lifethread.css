@@ -1,0 +1,30 @@
+body {
+  padding-top: 70px;
+}
+
+.navbar-default {
+  background-color: #80CC99;
+  border-color: #80CC99;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.mr-content {
+    background-color: #AFE3C1;
+    margin: 6px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 5px;
+
+select {
+  height: 40px;
+}
